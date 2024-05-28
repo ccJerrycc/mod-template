@@ -1,0 +1,1 @@
+mklink /D "%UserProfile%\.gradle\caches\fabric-loom\assets\objects" "%UserProfile%\AppData\Roaming\.minecraft\assets\objects"
